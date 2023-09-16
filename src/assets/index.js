@@ -29,8 +29,11 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import mrec from "./mrec.jpeg"
+
 
 export {
+  mrec,
   logo,
   backend,
   creator,

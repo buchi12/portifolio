@@ -23,6 +23,7 @@ import {
   jobit,
   tripguide,
   threejs,
+  mrec,
 } from "../assets";
 
 export const navLinks = [
@@ -32,7 +33,7 @@ export const navLinks = [
   },
   {
     id: "work",
-    title: "Work",
+    title: "Education",
   },
   {
     id: "contact",
@@ -106,7 +107,7 @@ const experiences = [
   {
     title: "Malla Reddy Engineering collage",
     company_name: "Hyderabad",
-    icon: starbucks,
+    icon: mrec,
     iconBg: "#383E56",
     date: "March 2020 - April 2024",
     points: [
